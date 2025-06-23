@@ -22,9 +22,6 @@ This is a simple 2D **Space Invaders** game developed using **C++** as part of m
 ## 📚 Project Context
 This game was created as a semester project for the **Programming Fundamentals** course at **FAST-NU**. The goal was to apply basic C++ concepts such as conditionals, loops, arrays, and functions in a creative way using console graphics.
 
-## 📷 Screenshots
-(Add a screenshot or short GIF here if possible)
-
 ## 📦 How to Run
 1. Clone or download the repository
 2. Open the `.cpp` file in your IDE (e.g., Dev C++, Code::Blocks)
